@@ -19,6 +19,18 @@ target/
 *.iml
 *.ipr
 
+.idea/
+.gradle/
+.project
+.classpath
+.settings/
+target/
+build/
+*.class
+
+### Properties ###
+/src/main/resources/*.properties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
